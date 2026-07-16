@@ -116,15 +116,7 @@ Outside of shipping features, I spend time reading source code from projects I a
   <img alt="snake animation" src="https://raw.githubusercontent.com/AbdulrhmanBadwy/AbdulrhmanBadwy/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulrhmanBadwy&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
 
 ## Featured Projects
 
