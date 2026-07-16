@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Abdulrhman%20Mohamed&fontSize=46&fontColor=c0caf5&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Abdulrhman%20Badwy&fontSize=46&fontColor=c0caf5&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrhman-badwy"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="linkedin"/></a>&nbsp;
-  <a href="https://www.facebook.com/almeshmasre"><img src="https://skillicons.dev/icons?i=fb" height="32" alt="facebook"/></a>&nbsp;
+  <a href="https://www.facebook.com/almeshmasre"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" width="32" alt="facebook"/></a>&nbsp;
   <a href="https://www.instagram.com/iabdulrhmanbadwy"><img src="https://skillicons.dev/icons?i=instagram" height="32" alt="instagram"/></a>&nbsp;
   <a href="mailto:abdulrhmanbadwy.masre@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="email"/></a>
 </p>
@@ -138,7 +138,7 @@ Outside of shipping features, I spend time reading source code from projects I a
 
 A Flutter-based platform for managing student workflows end to end, built around a layered architecture that separates presentation, domain, and data — with a Laravel API handling auth, persistence, and business rules.
 
-`Flutter` `Laravel` `MySQL` `REST API`
+`Flutter` `Firebase` 
 
 </td>
 <td width="50%">
