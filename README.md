@@ -91,8 +91,8 @@ Outside of shipping features, I spend time reading source code from projects I a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulrhmanBadwy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrhmanBadwy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdulrhmanBadwy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulrhmanBadwy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" />
 
 <br/>
 
@@ -138,7 +138,7 @@ Outside of shipping features, I spend time reading source code from projects I a
 
 A Flutter-based platform for managing student workflows end to end, built around a layered architecture that separates presentation, domain, and data — with a Laravel API handling auth, persistence, and business rules.
 
-`Flutter` `Firebase` 
+`Flutter` `Firebase`
 
 </td>
 <td width="50%">
