@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" width="1000" height="510">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="11" r="1.5" fill="#001A30" fill-opacity="0.12"/>
+  </pattern>
+  <pattern id="dotsCream" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#F4EDE5"/>
+  </pattern>
+  <pattern id="dotsNavy" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#001A30"/>
+  </pattern>
+  <linearGradient id="graphArea" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#FFAC00" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#FFAC00" stop-opacity="0.02"/>
+  </linearGradient>
+  <filter id="shadow" x="-8%" y="-15%" width="116%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.15"/>
+  </filter>
+</defs>
+<clipPath id="clip"><rect width="1000" height="510" rx="16"/></clipPath>
+<g clip-path="url(#clip)">
+  <rect width="1000" height="510" fill="#F4EDE5" stroke="#001A30" stroke-opacity="0.18" stroke-width="2" rx="16"/>
+  <rect width="1000" height="510" fill="url(#dots)"/>
+  <rect x="916" y="18" width="54" height="36" fill="url(#dotsNavy)" opacity="0.16"/>
+  <path transform="translate(898 56) rotate(0) scale(1.0)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <path transform="translate(924 74) rotate(0) scale(0.55)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <polygon fill="#FBF7F2" stroke="#001A30" stroke-opacity="0.12" points="0,400 24,408 46,420 66,434 86,446 96,464 112,478 120,496 130,510 0,510"/>
+  <rect x="30" y="466" width="45" height="27" fill="url(#dotsNavy)" opacity="0.82"/>
+  <text x="972" y="492" text-anchor="end" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#6B7A90">EVOLUTION GRAPH</text>
+</g>
+
+<!-- Top Kicker -->
+<text x="38" y="32" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFAC00" letter-spacing="2">THE TURNING POINT  ·  FROM EARLY ASSUMPTIONS TO SYSTEMS THINKING</text>
+
+<!-- PART 1: THE TURNING POINT DUAL CARDS -->
+<g filter="url(#shadow)">
+  <rect x="38" y="46" width="434" height="108" rx="12" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="7 5"/>
+</g>
+<rect x="54" y="58" width="214" height="22" rx="4" fill="#001A30"/>
+<text x="64" y="73" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.8" font-weight="800" fill="#FFFFFF" letter-spacing="0.8">00 · REALITY CHECK (CS · EGYPT)</text>
+<text x="54" y="100" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#001A30">Humbled by the Vastness of CS</text>
+<text x="54" y="121" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#1F2B3D">Chose CS over Engineering by passion, assuming I was ahead.</text>
+<text x="54" y="139" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#6B7A90">Meeting peers far ahead showed me how much I still had to learn.</text>
+
+<!-- Center Mindset Shift Connector -->
+<line x1="472" y1="100" x2="528" y2="100" stroke="#001A30" stroke-width="2.5" stroke-dasharray="4 4"/>
+<circle cx="500" cy="100" r="16" fill="#FFAC00" stroke="#001A30" stroke-width="2"/>
+<path d="M493 100 L505 100 M501 95 L506 100 L501 105" stroke="#001A30" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+<g filter="url(#shadow)">
+  <rect x="528" y="46" width="434" height="108" rx="12" fill="#001A30" stroke="#FFAC00" stroke-width="2.2"/>
+</g>
+<rect x="544" y="58" width="184" height="22" rx="4" fill="#FFAC00"/>
+<text x="554" y="73" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.8" font-weight="800" fill="#001A30" letter-spacing="0.8">THE DEFINING QUESTION</text>
+<text x="544" y="100" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#FFAC00">"How do I actually become good at this field?"</text>
+<text x="544" y="121" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#F4EDE5">Stopped protecting an old image and started rebuilding from</text>
+<text x="544" y="139" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#D5DCE6">core fundamentals through real projects toward systems &amp; security.</text>
+
+<!-- PART 2: ENGINEERING PROGRESSION GRAPH -->
+<text x="38" y="182" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="800" fill="#001A30" letter-spacing="1.5">ENGINEERING DEPTH &amp; SYSTEM SCOPE  ·  CHAPTER-BY-CHAPTER TRAJECTORY</text>
+
+<!-- Graph Background Grid Lines -->
+<line x1="38" y1="230" x2="962" y2="230" stroke="#001A30" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="5 5"/>
+<line x1="38" y1="270" x2="962" y2="270" stroke="#001A30" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="5 5"/>
+<line x1="38" y1="310" x2="962" y2="310" stroke="#001A30" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="5 5"/>
+
+<!-- Ascending Area & Curve (Nodes at: 146,298 -> 382,274 -> 618,250 -> 854,226) -->
+<path d="M 38,308 C 80,306 110,301 146,298 C 230,290 300,282 382,274 C 464,266 534,258 618,250 C 702,242 772,234 854,226 C 900,222 935,219 962,217 L 962,322 L 38,322 Z" fill="url(#graphArea)"/>
+<path d="M 38,308 C 80,306 110,301 146,298 C 230,290 300,282 382,274 C 464,266 534,258 618,250 C 702,242 772,234 854,226 C 900,222 935,219 962,217" fill="none" stroke="#FFAC00" stroke-width="3.5"/>
+
+<!-- Vertical Drop Stems from Graph Nodes to Chapter Cards -->
+<line x1="146" y1="298" x2="146" y2="326" stroke="#001A30" stroke-width="2" stroke-dasharray="3 3"/>
+<line x1="382" y1="274" x2="382" y2="326" stroke="#001A30" stroke-width="2" stroke-dasharray="3 3"/>
+<line x1="618" y1="250" x2="618" y2="326" stroke="#001A30" stroke-width="2" stroke-dasharray="3 3"/>
+<line x1="854" y1="226" x2="854" y2="326" stroke="#FFAC00" stroke-width="2.5"/>
+
+<!-- Node 1 Point & Callout -->
+<circle cx="146" cy="298" r="7" fill="#FFFFFF" stroke="#001A30" stroke-width="3"/>
+<rect x="78" y="266" width="136" height="22" rx="11" fill="#001A30"/>
+<text x="146" y="281" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="800" fill="#FFAC00" letter-spacing="0.6">01 · CORE CS BASE</text>
+
+<!-- Node 2 Point & Callout -->
+<circle cx="382" cy="274" r="7" fill="#FFFFFF" stroke="#001A30" stroke-width="3"/>
+<rect x="308" y="242" width="148" height="22" rx="11" fill="#001A30"/>
+<text x="382" y="257" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="800" fill="#FFAC00" letter-spacing="0.6">02 · CLIENT APPS &amp; UI</text>
+
+<!-- Node 3 Point & Callout -->
+<circle cx="618" cy="250" r="7" fill="#FFFFFF" stroke="#001A30" stroke-width="3"/>
+<rect x="540" y="218" width="156" height="22" rx="11" fill="#001A30"/>
+<text x="618" y="233" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="800" fill="#FFAC00" letter-spacing="0.6">03 · SERVER &amp; SYSTEM API</text>
+
+<!-- Node 4 Point & Callout -->
+<circle cx="854" cy="226" r="8.5" fill="#FFAC00" stroke="#001A30" stroke-width="3"/>
+<rect x="772" y="192" width="164" height="24" rx="12" fill="#FFAC00"/>
+<text x="854" y="208" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="800" fill="#001A30" letter-spacing="0.6">04 · SECURITY &amp; INFRA ★</text>
+
+<!-- 4 CHAPTER TAKEAWAY CARDS BELOW GRAPH -->
+<!-- Card 01 -->
+<g filter="url(#shadow)">
+  <rect x="38" y="326" width="216" height="140" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="52" y="350" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="800" fill="#001A30">Ch. 1 — Foundations</text>
+<text x="52" y="370" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFAC00">Abu Hadhoud (~7 Courses) + CS</text>
+<text x="52" y="390" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">Focused on OOP, Data Structures</text>
+<text x="52" y="406" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">&amp; Algorithms at college.</text>
+<rect x="52" y="422" width="188" height="30" rx="6" fill="#F4EDE5"/>
+<text x="60" y="441" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="700" fill="#001A30">Lesson: Foundations &gt; syntax</text>
+
+<!-- Card 02 -->
+<g filter="url(#shadow)">
+  <rect x="274" y="326" width="216" height="140" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="288" y="350" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="800" fill="#001A30">Ch. 2 — Mobile Dev</text>
+<text x="288" y="370" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFAC00">DEPI Round 4 · Studex App</text>
+<text x="288" y="390" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">Built Flutter apps &amp; our graduation</text>
+<text x="288" y="406" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">project with a full team.</text>
+<rect x="288" y="422" width="188" height="30" rx="6" fill="#F4EDE5"/>
+<text x="296" y="441" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="700" fill="#001A30">Lesson: Architecture &amp; delivery</text>
+
+<!-- Card 03 -->
+<g filter="url(#shadow)">
+  <rect x="510" y="326" width="216" height="140" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="524" y="350" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="800" fill="#001A30">Ch. 3 — Beyond the UI</text>
+<text x="524" y="370" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFAC00">IEEE Activity · Laravel Track</text>
+<text x="524" y="390" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">Explored REST APIs, relational DBs,</text>
+<text x="524" y="406" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1F2B3D">auth &amp; server-side logic.</text>
+<rect x="524" y="422" width="188" height="30" rx="6" fill="#F4EDE5"/>
+<text x="532" y="441" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="700" fill="#001A30">Pivot: Look beyond app dev</text>
+
+<!-- Card 04 -->
+<g filter="url(#shadow)">
+  <rect x="746" y="326" width="216" height="140" rx="11" fill="#001A30" stroke="#FFAC00" stroke-width="2.2"/>
+</g>
+<text x="760" y="350" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="800" fill="#FFAC00">Ch. 4 — Security &amp; Infra</text>
+<text x="760" y="370" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#F4EDE5">Cybersecurity · Cloud · DevOps</text>
+<text x="760" y="390" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#D5DCE6">Investigating system internals,</text>
+<text x="760" y="406" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.2" font-weight="500" fill="#D5DCE6">vulnerabilities &amp; infrastructure.</text>
+<rect x="760" y="422" width="188" height="30" rx="6" fill="#FFAC00"/>
+<text x="768" y="441" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="800" fill="#001A30">Direction: Active Focus ★</text>
+
+</svg>
