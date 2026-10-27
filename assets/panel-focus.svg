@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="11" r="1.5" fill="#001A30" fill-opacity="0.12"/>
+  </pattern>
+  <pattern id="dotsCream" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#F4EDE5"/>
+  </pattern>
+  <pattern id="dotsNavy" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#001A30"/>
+  </pattern>
+  <filter id="shadow" x="-8%" y="-15%" width="116%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.15"/>
+  </filter>
+</defs>
+<clipPath id="clip"><rect width="1000" height="210" rx="16"/></clipPath>
+<g clip-path="url(#clip)">
+  <rect width="1000" height="210" fill="#F4EDE5" stroke="#001A30" stroke-opacity="0.18" stroke-width="2" rx="16"/>
+  <rect width="1000" height="210" fill="url(#dots)"/>
+  <rect x="916" y="18" width="54" height="36" fill="url(#dotsNavy)" opacity="0.16"/>
+  <path transform="translate(898 56) rotate(0) scale(1.0)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <path transform="translate(924 74) rotate(0) scale(0.55)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <polygon fill="#FBF7F2" stroke="#001A30" stroke-opacity="0.12" points="0,100 24,108 46,120 66,134 86,146 96,164 112,178 120,196 130,210 0,210"/><rect x="30" y="166" width="45" height="27" fill="url(#dotsNavy)" opacity="0.82"/>
+  <text x="972" y="192" text-anchor="end" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#6B7A90">FOCUS</text>
+</g>
+<text x="38" y="32" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFAC00" letter-spacing="2">CURRENT LEARNING DIRECTION  ·  SECURITY, SYSTEMS &amp; INFRASTRUCTURE</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="48" width="296" height="58" rx="11" fill="#001A30" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="56" y="73" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#FFAC00">Cybersecurity Fundamentals</text>
+<text x="56" y="92" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#F4EDE5">Active training via ITI &amp; CyberTalents</text>
+
+<g filter="url(#shadow)">
+  <rect x="352" y="48" width="296" height="58" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="370" y="73" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#001A30">Networks &amp; System Internals</text>
+<text x="370" y="92" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#6B7A90">How services communicate &amp; operate</text>
+
+<g filter="url(#shadow)">
+  <rect x="666" y="48" width="296" height="58" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="684" y="73" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#001A30">Penetration Testing Basics</text>
+<text x="684" y="92" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#6B7A90">Vulnerability discovery &amp; practical labs</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="120" width="296" height="58" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="56" y="145" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#001A30">Cloud Computing</text>
+<text x="56" y="164" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#6B7A90">Exploring cloud infrastructure concepts</text>
+
+<g filter="url(#shadow)">
+  <rect x="352" y="120" width="296" height="58" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="370" y="145" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#001A30">DevOps Fundamentals</text>
+<text x="370" y="164" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#6B7A90">Exploring automation &amp; system reliability</text>
+
+<g filter="url(#shadow)">
+  <rect x="666" y="120" width="296" height="58" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="2" stroke-dasharray="6 4"/>
+</g>
+<text x="684" y="145" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#001A30">Software Engineering Base</text>
+<text x="684" y="164" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.2" font-weight="500" fill="#6B7A90">C++ · OOP · Algorithms · Flutter &amp; Laravel</text>
+
+</svg>

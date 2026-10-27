@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 315" width="1000" height="315">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="11" r="1.5" fill="#001A30" fill-opacity="0.12"/>
+  </pattern>
+  <pattern id="dotsCream" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#F4EDE5"/>
+  </pattern>
+  <pattern id="dotsNavy" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#001A30"/>
+  </pattern>
+  <filter id="shadow" x="-8%" y="-15%" width="116%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.15"/>
+  </filter>
+</defs>
+<clipPath id="clip"><rect width="1000" height="315" rx="16"/></clipPath>
+<g clip-path="url(#clip)">
+  <rect width="1000" height="315" fill="#F4EDE5" stroke="#001A30" stroke-opacity="0.18" stroke-width="2" rx="16"/>
+  <rect width="1000" height="315" fill="url(#dots)"/>
+  <rect x="916" y="18" width="54" height="36" fill="url(#dotsNavy)" opacity="0.16"/>
+  <path transform="translate(898 56) rotate(0) scale(1.0)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <path transform="translate(924 74) rotate(0) scale(0.55)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+  <polygon fill="#FBF7F2" stroke="#001A30" stroke-opacity="0.12" points="0,205 24,213 46,225 66,239 86,251 96,269 112,283 120,301 130,315 0,315"/><rect x="30" y="271" width="45" height="27" fill="url(#dotsNavy)" opacity="0.82"/>
+  <text x="972" y="297" text-anchor="end" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#6B7A90">ITI PATHWAY</text>
+</g>
+<text x="38" y="34" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="800" fill="#FFAC00" letter-spacing="2">ITI CYBERSECURITY TRAINING PATHWAY  ·  STRUCTURED PROGRESSION</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="54" width="924" height="48" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="1.8" stroke-dasharray="7 5"/>
+</g>
+<circle cx="68" cy="78" r="15" fill="#001A30"/>
+<text x="68" y="83" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFFFFF">01</text>
+<text x="98" y="83" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#001A30">Mahara-Tech Training</text>
+<text x="345" y="83" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#1F2B3D">Cybersecurity &amp; networking foundations</text>
+<rect x="738" y="65" width="208" height="26" rx="13" fill="#1B7F5A"/>
+<text x="842" y="82" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="0.6">COMPLETED</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="114" width="924" height="48" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="1.8" stroke-dasharray="7 5"/>
+</g>
+<circle cx="68" cy="138" r="15" fill="#001A30"/>
+<text x="68" y="143" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFFFFF">02</text>
+<text x="98" y="143" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#001A30">ITI Summer Training</text>
+<text x="345" y="143" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#1F2B3D">120-hour cybersecurity training track</text>
+<rect x="738" y="125" width="208" height="26" rx="13" fill="#1B7F5A"/>
+<text x="842" y="142" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="0.6">COMPLETED</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="174" width="924" height="48" rx="11" fill="#FFFDF9" stroke="#FFAC00" stroke-width="2.4" />
+</g>
+<circle cx="68" cy="198" r="15" fill="#FFAC00"/>
+<text x="68" y="203" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#001A30">03</text>
+<text x="98" y="203" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#001A30">CyberTalents Training</text>
+<text x="345" y="203" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#1F2B3D">Practical cybersecurity training &amp; challenges</text>
+<rect x="738" y="185" width="208" height="26" rx="13" fill="#FFAC00"/>
+<text x="842" y="202" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" fill="#001A30" letter-spacing="0.6">CURRENT STAGE</text>
+
+<g filter="url(#shadow)">
+  <rect x="38" y="234" width="924" height="48" rx="11" fill="#FFFFFF" stroke="#001A30" stroke-width="1.8" stroke-dasharray="7 5"/>
+</g>
+<circle cx="68" cy="258" r="15" fill="#D5DCE6"/>
+<text x="68" y="263" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#001A30">04</text>
+<text x="98" y="263" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#001A30">eJPT Certification Voucher</text>
+<text x="345" y="263" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#1F2B3D">Conditional opportunity upon passing Stage 3</text>
+<rect x="738" y="245" width="208" height="26" rx="13" fill="#6B7A90"/>
+<text x="842" y="262" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="0.6">CONDITIONAL TARGET</text>
+
+</svg>

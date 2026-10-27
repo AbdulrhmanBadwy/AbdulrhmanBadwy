@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="11" r="1.5" fill="#001A30" fill-opacity="0.12"/>
+  </pattern>
+  <pattern id="dotsCream" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#F4EDE5"/>
+  </pattern>
+  <pattern id="dotsNavy" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.5" fill="#001A30"/>
+  </pattern>
+  <filter id="shadow" x="-8%" y="-15%" width="116%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.15"/>
+  </filter>
+</defs>
+<rect width="1200" height="120" fill="#F4EDE5"/>
+<rect width="1200" height="120" fill="url(#dots)"/>
+<polygon fill="#001A30" points="0,120 1200,120 1200.0,55.4 1175.4,61.5 1152.7,56.1 1127.5,51.9 1103.8,57.7 1074.3,50.7 1055.0,50.7 1025.2,58.5 1011.3,62.3 978.2,58.0 952.4,51.5 939.1,56.4 924.9,52.0 906.8,49.9 884.2,55.2 853.7,56.2 827.3,56.0 800.6,55.4 781.8,62.5 748.1,60.4 720.3,53.6 702.6,53.3 688.1,59.5 666.8,60.5 645.7,62.0 615.1,49.5 597.8,61.3 575.0,62.2 553.7,50.4 527.6,59.6 509.0,50.6 489.1,62.0 460.3,51.0 442.2,50.8 428.0,59.9 411.3,56.8 389.0,52.0 360.7,51.2 334.3,51.0 312.6,52.3 294.0,62.1 264.3,53.5 232.9,52.2 211.7,60.6 185.3,50.8 151.7,52.3 133.4,59.5 113.5,53.4 99.0,50.7 73.9,52.7 48.4,54.3 25.9,62.0 2.9,57.0 0,51.9"/>
+<rect x="1090" y="72" width="64" height="34" fill="url(#dotsCream)" opacity="0.9"/>
+<path transform="translate(80 66) rotate(-10) scale(0.85)" fill="#FFAC00" stroke="#001A30" stroke-width="1.5" stroke-linejoin="round" d="M6,0 L-6,22 L2,22 L-3,40 L12,14 L3,14 L9,0Z"/>
+<path transform="translate(560.0 26) rotate(0) scale(0.85)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+<path transform="translate(600.0 18) rotate(0) scale(1.2)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+<path transform="translate(640.0 26) rotate(0) scale(0.85)" fill="#FFAC00" d="M0,-10 C1.5,-2 2,-1.5 10,0 C2,1.5 1.5,2 0,10 C-1.5,2 -2,1.5 -10,0 C-2,-1.5 -1.5,-2 0,-10Z"/>
+<text x="600.0" y="100" text-anchor="middle" font-family="Vazirmatn, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700"
+      fill="#F4EDE5" letter-spacing="1.2">ABDULRHMAN BADWY  ·  QUESTION, EXPLORE &amp; DELIBERATELY CHOOSE WHAT TO LEARN NEXT</text>
+</svg>
