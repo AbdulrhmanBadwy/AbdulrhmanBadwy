@@ -29,37 +29,11 @@
   <img src="assets/panel-about.svg" alt="Career Progression: Chapter 1 Foundations -> Chapter 2 Mobile Dev -> Chapter 3 Backend & APIs -> Chapter 4 Security & Infra" width="100%"/>
 </p>
 
-### The Turning Point
+<p align="center">
+  <img src="assets/panel-turning-point.svg" alt="The Turning Point & Engineering Evolution Graph: From Early Assumptions to Systems & Security" width="100%"/>
+</p>
 
-I am a **Computer and Information Science** student from Egypt 🇪🇬. In high school, I scored high enough to pursue engineering, but I chose Computer and Information Science because I felt genuinely drawn to the field and believed it suited me better.
-
-When I first started college, I had an unrealistic picture of myself. I assumed I was already ahead and that very few people could compete with me. Reality humbled me quickly. Being surrounded by peers at different levels—many of whom knew far more than I did—made me realize how vast the field actually is and how much I had not yet explored.
-
-Instead of trying to protect that old image of myself, I started asking a much more useful question:
-
-> **How do I actually become good at this field?**
-
-### Chapter 1 — Building the Foundations
-
-I went back to the basics and worked on my programming fundamentals through **Programming Advices** by **Abu Hadhoud**, completing around seven courses. Alongside my self-study, I focused on core computer science subjects at college, including **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
-
-That phase taught me a lasting lesson: becoming a good engineer requires more than memorizing syntax or picking up a framework. It requires understanding the foundations underneath the tools.
-
-### Chapter 2 — Exploring Mobile Development
-
-Once I had a stronger foundation, I wanted to test myself in a practical development track. I joined the **Digital Egypt Pioneers Initiative (DEPI), Round 4**, in the **Flutter** track.
-
-During DEPI and my college studies, I built several mobile applications and worked with my colleagues on **Studex**, our graduation project. Working on real deliverables taught me how applications are structured, how teams collaborate, and what it takes to turn requirements into working software.
-
-### Chapter 3 — Looking Beyond the Interface
-
-While building mobile interfaces, I wanted to understand what happens on the other side of an application. I started learning backend development with **Laravel** through the **IEEE** student activity—exploring REST APIs, relational databases, authentication, and server-side business logic.
-
-Seeing both the client and server sides gave me a much clearer picture of how software systems fit together. At the same time, hands-on experience in mobile and backend development helped me realize that application development was not the area where I wanted to invest my long-term focus. I do not regret the time I spent there—it gave me practical engineering context and helped me figure out what I wanted to explore next.
-
-### Chapter 4 — Exploring Cybersecurity and Infrastructure
-
-My curiosity gradually shifted toward **Cybersecurity**, **Cloud Computing**, and **DevOps**. Rather than focusing only on building features, I became interested in how systems work internally, how networks and services communicate, how vulnerabilities arise and are discovered, and how infrastructure is secured and operated reliably.
+> 💡 **The Turning Point —** *"Instead of trying to protect an old image of myself after being humbled early in college, I started asking a much more useful question: **How do I actually become good at this field?**"*
 
 ---
 
@@ -82,15 +56,6 @@ Right now, I am focused on building strong fundamentals in **cybersecurity** thr
 <p align="center">
   <img src="assets/panel-currently.svg" alt="ITI Cybersecurity Training Pathway: Stage 1 Mahara-Tech (Completed), Stage 2 ITI Summer Training 120-Hour Track (Completed), Stage 3 CyberTalents Training (Current Stage), Stage 4 eJPT Certification Voucher (Conditional Target)" width="100%"/>
 </p>
-
-My current cybersecurity learning follows the **Information Technology Institute (ITI)** training pathway:
-
-| Stage | Milestone | Focus | Status |
-| :--- | :--- | :--- | :--- |
-| **Stage 1** | **Mahara-Tech Training** | Entry-level cybersecurity and networking foundations | ✅ Completed |
-| **Stage 2** | **ITI Summer Training** | Intensive **120-hour** cybersecurity training track | ✅ Completed |
-| **Stage 3** | **CyberTalents Training** | Practical cybersecurity exercises and hands-on challenges | 🔄 Currently Undertaking |
-| **Stage 4** | **eJPT Certification Voucher** | Opportunity to sit for the *Junior Penetration Tester (eJPT)* exam, conditional on passing Stage 3 | 🎯 Conditional Future Opportunity |
 
 ---
 
@@ -119,12 +84,6 @@ My current cybersecurity learning follows the **Information Technology Institute
   <img src="assets/panel-projects.svg" alt="Projects & Experience: Studex Graduation Project and DEPI Flutter & IEEE Laravel Systems" width="100%"/>
 </p>
 
-My earlier development projects remain an important part of my journey—they taught me how real applications are built, structured, and connected before I shifted my focus toward security and infrastructure:
-
-- **🎓 Studex (Graduation Project):** A collaborative student workflow platform built with **Flutter** and backed by a **Laravel** API. We structured the app around clean, layered boundaries separating presentation, domain, and data, handling authentication, persistence, and business rules end to end.
-- **📱 DEPI Round 4 — Flutter Track Applications:** A series of mobile applications built during the **Digital Egypt Pioneers Initiative (Round 4)**, where I practiced state management, modular folder structures, and working within a development team.
-- **🔗 Backend APIs — IEEE Laravel Track:** RESTful backend services built with **Laravel** and **MySQL** during my time with the **IEEE** student activity, focusing on token-based authentication, request validation, resource controllers, and API contracts consumed by mobile clients.
-
 ---
 
 <p><img src="assets/section-analytics.svg" alt="06 — GitHub Analytics" height="62"/></p>
@@ -144,7 +103,6 @@ My earlier development projects remain an important part of my journey—they ta
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrhmanBadwy&hide_border=true&bg_color=F4EDE5&color=001A30&title_color=001A30&line=FFAC00&point=001A30&area=true&area_color=FFAC00&radius=10" width="100%" alt="Contribution Graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulrhmanBadwy/AbdulrhmanBadwy/output/github-contribution-grid-snake-dark.svg">
